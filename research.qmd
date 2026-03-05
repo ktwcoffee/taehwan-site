@@ -4,8 +4,8 @@ title: "Research"
 
 ## Interests
 - Applied Mathematics
-- PDE
-- Scientific Machine Learning
+- Geometric Machine Learning
+- Diffusion Geometry
 
 ## Papers
 Coming soon.

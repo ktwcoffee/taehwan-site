@@ -4,14 +4,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Applied Mathematics\nPDE\nScientific Machine Learning"
+    "text": "Applied Mathematics\nGeometric Machine Learning\nDiffusion Geometry"
   },
   {
     "objectID": "research.html#interests",
     "href": "research.html#interests",
     "title": "Research",
     "section": "",
-    "text": "Applied Mathematics\nPDE\nScientific Machine Learning"
+    "text": "Applied Mathematics\nGeometric Machine Learning\nDiffusion Geometry"
   },
   {
     "objectID": "research.html#papers",
@@ -30,8 +30,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "taehwan-site",
+    "title": "Taehwan Kim",
     "section": "",
-    "text": "-Taehwan Kim\n-PhD Student in Mathematics\n-University of California, Santa Barbara"
+    "text": "Hello, I’m Taehwan Kim, a PhD student in Mathematics at UCSB.\nThis is my test website."
   }
 ]
