@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Applied Mathematics\nPDE\nScientific Machine Learning"
+  },
+  {
+    "objectID": "research.html#interests",
+    "href": "research.html#interests",
+    "title": "Research",
+    "section": "",
+    "text": "Applied Mathematics\nPDE\nScientific Machine Learning"
+  },
+  {
+    "objectID": "research.html#papers",
+    "href": "research.html#papers",
+    "title": "Research",
+    "section": "Papers",
+    "text": "Papers\nComing soon."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "taehwan-site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
