@@ -2,6 +2,6 @@
 title: "taehwan-site"
 ---
 
-Taehwan Kim   
-PhD Student in Mathematics  
-University of California, Santa Barbara  
+-Taehwan Kim   
+-PhD Student in Mathematics  
+-University of California, Santa Barbara  
